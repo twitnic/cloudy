@@ -1,5 +1,5 @@
 {
-    "name": "cloudy/console",
+    "name": "twitnic/cloudy",
     "description": "Helper for PC",
     "type": "library",
     "require": {
