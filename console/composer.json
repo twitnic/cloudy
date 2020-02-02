@@ -1,0 +1,21 @@
+{
+    "name": "cloudy/console",
+    "description": "Helper for PC",
+    "type": "library",
+    "require": {
+        "symfony/console": "4.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Console\\": "src/"
+        },
+        "classmap": ["src"]
+    },
+    "license": "Dominic Richter",
+    "authors": [
+        {
+            "name": "Dominic Richter",
+            "email": "d.richter@powercloud.de"
+        }
+    ]
+}
