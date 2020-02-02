@@ -3,7 +3,7 @@
     "description": "Helper for PC",
     "type": "library",
     "require": {
-        "symfony/console": "4.4"
+        "symfony/console": "^2.8"
     },
     "autoload": {
         "psr-4": {
